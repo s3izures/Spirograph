@@ -1,6 +1,6 @@
 #include "Spirograph.h"
-#include <raymath.h>
-#include <raylib.h>
+#include "raymath.h"
+#include "raylib.h"
 
 void Spirograph::Main()
 {
